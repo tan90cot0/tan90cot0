@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ML/Software tasks
 - 📫 How to reach me: [My e-mail](cs5200475@iitd.ac.in) or [LinkedIn](https://www.linkedin.com/in/aryandua/)
 - 🌎 More about me at :link: [My Webpage!](https://tan90cot0.github.io)
-- 👨‍💻 These repositories are a non-exhaustive list of some of the projects that I had taken up, where I experiment <br/> with AI, System Design, Computer Networks, NLP, Machine Learning and much more!
+- 👨‍💻 These repositories are a non-exhaustive list of some of the projects that I had taken up, where I experiment <br/> with AI, System Design, Computer Networks, NLP, Machine Learning, and much more!
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tan90cot0&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="tan90cot0" width="240"  height="320"/> 
